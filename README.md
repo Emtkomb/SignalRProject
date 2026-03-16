@@ -71,7 +71,7 @@ Proje katmanlara ve modüllere ayrılarak daha kolay anlaşılabilir ve daha kol
 ![image](https://github.com/user-attachments/assets/8028a784-c2b5-4120-a2d4-566fcee5f0ae)
 
 
-
+## https://www.alierenygt.com.tr/Projects/Detail/1
 
 
 
